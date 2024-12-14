@@ -58,5 +58,6 @@ This project investigates the cellular and molecular dynamics of lung tissue in 
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/lupeiq/CBB575_FinalProject_Group3.git
+   cd CBB575_FinalProject_Group3
+
