@@ -53,7 +53,7 @@ This project investigates the cellular and molecular dynamics of lung tissue in 
   - `MAST`
 
 ### Data
-- scRNA-seq libraries generated using 10X Genomics Chromium Single Cell ARC-v1 chemistry.
+- Available in [Google Drive](https://drive.google.com/drive/folders/1lOUGvbXTEetbv05i1dEYK0U1QdEVnTg3?usp=drive_link)
 
 ## Usage
 1. Clone the repository:
